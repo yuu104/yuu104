@@ -1,21 +1,21 @@
 
-<h1 align="center">Hi 👋, I'm Yuu</h1>
-<h3 align="center">A Software Engineers in Japan</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuu104" alt="yuu104" /></a> </p>
+# Hi 👋, I'm Yuu
+<h3 align="left">A Software Engineers in Japan</h3>
 
 - 🌱 I’m currently learning **TypeScript, Java, Next.js, Playwright, AWS, Docker, Terraform, DB Logical Design**
 
 - 📝 I regularly write articles on [https://zenn.dev/yuu104](https://zenn.dev/yuu104)
 
-### Blogs posts
-<p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuu104&show_icons=true&locale=en&layout=compact"/></p>
+- 📫 How to reach me **yusei8171@gmail.com**
 
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuu104&show_icons=true&locale=en&layout=compact"/></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuu104&" alt="yuu104" /></p>
+
+# Latest Blogs posts
+
+
+![](https://github-readme-blog-score-shota1995m.vercel.app/api/get_zenn_score?zennId=[yuu104])
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/yuu10443" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yuu10443" height="30" width="40" /></a>
-<a href="/https://zenn.dev/yuu104/feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://zenn.dev/yuu104/feed" height="30" width="40" /></a>
-</p>

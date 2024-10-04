@@ -9,6 +9,8 @@
 - 📝 I regularly write articles on [https://zenn.dev/yuu104](https://zenn.dev/yuu104)
 
 ### Blogs posts
+<p><img align="right" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=yuu104&show_icons=true&locale=en&layout=compact"/></p>
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 

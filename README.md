@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuu104" alt="yuu104" /></a> </p>
 
-- 🌱 I’m currently learning **TypeScript, Java, Next.js, Playwright, AWS, Docker, Terraform, Database Logical Design**
+- 🌱 I’m currently learning **TypeScript, Java, Next.js, Playwright, AWS, Docker, Terraform, DB Logical Design**
 
 - 📝 I regularly write articles on [https://zenn.dev/yuu104](https://zenn.dev/yuu104)
 

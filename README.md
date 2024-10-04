@@ -1,9 +1,19 @@
-![](https://github-readme-blog-score-shota1995m.vercel.app/api/get_zenn_score?zennId=[yuu104])
 
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuu104&layout=compact&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=yuu104&theme=onedark&show_icons=ture" />
+<h1 align="center">Hi 👋, I'm Yuu</h1>
+<h3 align="center">A Software Engineers in Japan</h3>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yuu104" alt="yuu104" /></a> </p>
+
+- 🌱 I’m currently learning **TypeScript, Java, Next.js, Playwright, AWS, Docker, Terraform, Database Logical Design**
+
+- 📝 I regularly write articles on [https://zenn.dev/yuu104](https://zenn.dev/yuu104)
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/yuu10443" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yuu10443" height="30" width="40" /></a>
+<a href="/https://zenn.dev/yuu104/feed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://zenn.dev/yuu104/feed" height="30" width="40" /></a>
 </p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=yuu104&theme=onedark&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)

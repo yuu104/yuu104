@@ -1,6 +1,6 @@
 
 # Hi 👋, I'm yuu
-<h3 align="left">A Software Engineers in Japan</h3>
+<h3 align="left">A Software Engineer in Japan</h3>
 
 - 🌱 I’m currently learning **TypeScript, Java, Next.js, Playwright, AWS, Docker, Terraform, DB Logical Design**
 

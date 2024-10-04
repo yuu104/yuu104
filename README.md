@@ -17,5 +17,9 @@
 
 ![](https://github-readme-blog-score-shota1995m.vercel.app/api/get_zenn_score?zennId=[yuu104])
 <!-- BLOG-POST-LIST:START -->
+- [React Server Componentsを理解したい](https://zenn.dev/yuu104/articles/react-server-component)
+- [【Next.js】router.refresh&lpar;&rpar; が何をしているのか理解する](https://zenn.dev/yuu104/articles/nextjs-router-refresh)
+- [CSPのざっくり概要](https://zenn.dev/yuu104/articles/content-secutity-policy)
+- [React・JavaScriptのイベント伝播について今更ながらに理解したのでまとめる](https://zenn.dev/yuu104/articles/js-react-event-delegation)
 <!-- BLOG-POST-LIST:END -->
 

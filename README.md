@@ -12,8 +12,8 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yuu104&" alt="yuu104" /></p>
 
-# Latest Blogs posts
-
+# Latest Zenn posts
+[![Likes](https://badgen.org/img/zenn/yuu104/likes?style=flat-square)](https://zenn.dev/yuu104) [![Followers](https://badgen.org/img/zenn/yuu104/followers?style=flat-square)](https://zenn.dev/yuu104) [![Articles](https://badgen.org/img/zenn/yuu104/articles?style=flat-square)](https://zenn.dev/yuu104)
 
 ![](https://github-readme-blog-score-shota1995m.vercel.app/api/get_zenn_score?zennId=[yuu104])
 <!-- BLOG-POST-LIST:START -->

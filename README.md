@@ -16,7 +16,7 @@
 [![Likes](https://badgen.org/img/zenn/yuu104/likes?style=flat-square)](https://zenn.dev/yuu104) [![Followers](https://badgen.org/img/zenn/yuu104/followers?style=flat-square)](https://zenn.dev/yuu104) [![Articles](https://badgen.org/img/zenn/yuu104/articles?style=flat-square)](https://zenn.dev/yuu104)
 
 <!-- BLOG-POST-LIST:START -->
-- [E2E自動テストを理解したい](https://zenn.dev/yuu104/articles/what-is-e2e-test)
+- [【Playwrightの前に】E2Eテストを理解したい](https://zenn.dev/yuu104/articles/what-is-e2e-test)
 - [React Server Componentsを理解したい](https://zenn.dev/yuu104/articles/react-server-component)
 - [【Next.js】router.refresh&lpar;&rpar; が何をしているのか理解する](https://zenn.dev/yuu104/articles/nextjs-router-refresh)
 - [CSPのざっくり概要](https://zenn.dev/yuu104/articles/content-secutity-policy)

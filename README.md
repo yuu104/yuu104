@@ -2,7 +2,7 @@
 # Hi 👋, I'm yuu
 <h3 align="left">A Software Engineer in Japan</h3>
 
-- 🌱 I’m currently learning **TypeScript, Java, Next.js, Playwright, Docker, DB Logical Design**
+- 🌱 I’m currently learning **Testing**
 
 - 📝 I regularly write articles on [https://zenn.dev/yuu104](https://zenn.dev/yuu104)
 
